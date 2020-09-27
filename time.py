@@ -1,3 +1,4 @@
+print('Программа конвертации секунд в часы')
 second_in_day = 86400
 second_in_hour = 3600
 minutes_in_hour = 60
